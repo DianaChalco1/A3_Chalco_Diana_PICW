@@ -1,0 +1,1 @@
+console.log("se cargo el archivo desde public JS")
