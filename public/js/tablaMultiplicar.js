@@ -12,10 +12,11 @@ if (isNaN(numero)) {
 //una vez que se ha confirmado que ha ingresado un número válido
 } else {
     console.log(`Tabla de multiplicar del ${numero}:`);
-    
-//Usar un bucle for para iterar del 1 al 12
+
+    //Usar un bucle for para iterar del 1 al 12
     for (let i = 1; i <= 12; i++) {
         let resultado = numero * i;
         console.log(`${numero} x ${i} = ${resultado}`);
     }
+
 }
