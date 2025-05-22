@@ -1,3 +1,4 @@
+
 let numero = prompt("Ingrese un número la tabla de multiplicar:");
 
 //Con parseInt se convierte la entrada a un número
